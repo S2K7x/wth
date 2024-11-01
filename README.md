@@ -1,7 +1,3 @@
-Here’s a `README.md` for your tool **What the Hash? (wth.py)**.
-
----
-
 # What the Hash? (wth.py)
 
 **What the Hash?** is a Python tool designed to identify hash types based on common hash formats and characteristics. With `wth.py`, you can determine the hash type of a given hash string, compare two hashes, and even look up common plaintext values for MD5 and SHA-1 hashes.
@@ -27,7 +23,7 @@ You can extend support by adding more hash types to the `hash_signatures.py` fil
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/wth.git
+   git clone https://github.com/S2K7x/wth.git
    ```
 2. **Navigate to the directory**:
    ```bash
